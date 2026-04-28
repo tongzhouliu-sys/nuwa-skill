@@ -2,17 +2,7 @@
 
 # 女娲.skill
 
-<p align="center">
-  <img src="assets/hero.gif" alt="nuwa-skill Hero Animation" />
-  <br/>
-  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
-</p>
-
 > *「你想蒸馏的下一个员工，何必是同事」*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
 <br>
 
@@ -24,7 +14,7 @@
 那何必蒸馏同事？去蒸馏乔布斯、芒格、费曼、马斯克。<br>
 只需输入一个名字，女娲自动完成调研、提炼、验证全流程。
 
-[看效果](#效果示例) · [安装](#安装) · [它蒸馏了什么](#女娲蒸馏了什么) · [工作原理](#工作原理) · [不想自己蒸馏？试试 Bloome](#不想自己蒸馏试试-bloome)
+[看效果](#效果示例) · [安装](#安装) · [它蒸馏了什么](#女娲蒸馏了什么) · [工作原理](#工作原理)
 
 <br>
 
@@ -33,8 +23,6 @@
 [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
 
 <br>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
 
 </div>
 
@@ -104,16 +92,6 @@ Naval     ❯ 你列了三个欲望。每个欲望都是你跟不快乐签的一
 ```
 
 这不是角色扮演。乔布斯用的是「聚焦即说不」和「端到端控制」心智模型，Naval用的是「欲望即合同」，马斯克用的是「渐近极限法」，张雪峰用的是「ROI教育观」和「阶层流动现实主义」。**它们不是在复读名人语录，是在用名人的认知框架帮你分析。**
-
----
-
-## 不想自己蒸馏？试试 Bloome
-
-[<img src="bloome-advisors.jpg" alt="Bloome - 让他们成为你的智囊团" width="720">](https://www.bloome.im)
-
-想随时找乔布斯和张小龙聊产品？和芒格聊投资？
-
-[Bloome](https://www.bloome.im) —— 让他们成为你的智囊团，人和多个 Agent 在同一个对话里协作。www.bloome.im
 
 ---
 
@@ -201,26 +179,6 @@ npx skills add alchaincyf/nuwa-skill
 
 ---
 
-## 达尔文.skill：让所有Skill持续进化
-
-<div align="center">
-
-<a href="https://github.com/alchaincyf/darwin-skill">
-<img src="https://raw.githubusercontent.com/alchaincyf/darwin-skill/master/assets/banner.svg" alt="达尔文.skill" width="600">
-</a>
-
-</div>
-
-女娲造Skill，**[达尔文](https://github.com/alchaincyf/darwin-skill)** 让Skill进化。
-
-受 Karpathy autoresearch 启发，达尔文.skill 用自主实验循环批量优化所有Skill：8维度评估、棘轮机制（只保留改进，自动回滚退步）、独立子agent评分。女娲的 Phase 5 双Agent精炼就内置了达尔文的评估体系，这也是女娲生成的Skill质量高的原因之一。
-
-```bash
-npx skills add alchaincyf/darwin-skill
-```
-
----
-
 ## 工作原理
 
 输入一个名字后，女娲做四件事：
@@ -280,21 +238,6 @@ nuwa-skill/
 
 ---
 
-## 关于作者
-
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
-
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
-| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
-
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
-
 ## 许可证
 
 MIT — 随便用，随便改，随便造。
@@ -309,7 +252,7 @@ MIT — 随便用，随便改，随便造。
 
 <br>
 
-MIT License © [花叔 Huashu](https://github.com/alchaincyf)
+本skill由RHCLOUD更新整理
 
 </div>
 

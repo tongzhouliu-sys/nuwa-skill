@@ -4,10 +4,6 @@
 
 > *「宁可背负骂名把事情做成，也不做悲剧英雄。」*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-
 <br>
 
 **孙宇晨的注意力收割操作系统。不是道德评判，是可运行的营销思维框架。**
@@ -211,23 +207,7 @@ SEC Case No. 1:23-cv-02340 · The Verge调查系列 2022 · Bloomberg「From Par
 
 ## 免责声明
 
-此Skill用于理解思维模式，不构成任何行为建议。孙宇晨的多项操作涉及法律指控（SEC起诉、洗售交易、未注册证券发行）。理解不等于模仿。
-
----
-
-## 这个Skill是怎么造出来的
-
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
-
-女娲的工作流程：输入一个名字 → 6个Agent并行调研 → 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证 → 3轮自动优化（60分→91分）。
-
-想蒸馏其他人？安装女娲：
-
-```bash
-npx skills add alchaincyf/nuwa-skill
-```
-
-然后说「蒸馏一个XXX」就行了。
+本skill由RHCLOUD更新整理
 
 ---
 
@@ -249,41 +229,11 @@ sun-yuchen-perspective/
 
 ---
 
-## 更多.skill
-
-女娲已蒸馏的其他人物，每个都可独立安装：
-
-| 人物 | 领域 | 安装 |
-|------|------|------|
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/聚焦 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [特朗普.skill](https://github.com/alchaincyf/trump-skill) | 谈判/权力/叙事操控 | `npx skills add alchaincyf/trump-skill` |
-| [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add alchaincyf/naval-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
-
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
-
 ## 许可证
 
 MIT — 随便用，随便改，随便蒸馏。
 
 ---
-
-## 关于作者
-
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
-
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
-| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」|
 
 <div align="center">
 
@@ -291,8 +241,6 @@ MIT — 随便用，随便改，随便蒸馏。
 
 <br>
 
-MIT License © [花叔 Huashu](https://github.com/alchaincyf)
-
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+本skill由RHCLOUD更新整理
 
 </div>

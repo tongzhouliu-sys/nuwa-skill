@@ -4,10 +4,6 @@
 
 > *"The next person you want to distill doesn't have to be a colleague."*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
-
 <br>
 
 **Nuwa distills the thinking of anyone — let Musk, Naval, Munger, and Feynman work for you.**
@@ -145,16 +141,6 @@ All research is fully transparent. The examples include complete research files 
 
 ---
 
-## Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
-</div>
-
----
-
 ## The Story Behind It
 
 [colleague-skill](https://github.com/titanwings/colleague-skill) recently exploded on GitHub — distilling departing colleagues into AI skills, crossing 5,000 stars in days. It proved one thing: distilling a person is completely viable.
@@ -168,15 +154,6 @@ Nuwa doesn't copy people. It extracts cognitive operating systems.
 **Nuwa (女娲)**, the goddess in Chinese mythology who created humans from clay. Here the clay is public information, and what's created is not a person — it's a mirror.
 
 ---
-
-## About the Author
-
-Huashu / Huasheng, AI Native Coder, indie developer. All products are built by AI-written code ([Kitten Fill Light](https://apps.apple.com/app/id6738028637) reached #1 on China App Store paid chart). Running 40+ custom skills in Claude Code. Nuwa is the skill that makes skills.
-
-- WeChat Official Account: 花叔 (Huashu)
-- X: [@AlchainHust](https://x.com/AlchainHust)
-- Bilibili: [花叔](https://space.bilibili.com/14097567)
-- YouTube: [@Alchain](https://www.youtube.com/@Alchain)
 
 ## License
 
@@ -192,6 +169,6 @@ MIT — use it, modify it, build with it.
 
 <br>
 
-MIT License © [Huashu](https://github.com/alchaincyf)
+本skill由RHCLOUD更新整理
 
 </div>

@@ -4,10 +4,6 @@
 
 > *"La próxima persona que quieras destilar no tiene por qué ser un colega"*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
-
 <br>
 
 **Nuwa destila la forma de pensar de cualquier persona. Haz que Musk, Naval, Munger y Feynman trabajen para ti.**
@@ -147,16 +143,6 @@ Toda la investigación es completamente transparente. Los ejemplos incluyen arch
 
 ---
 
-## Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
-</div>
-
----
-
 ## La historia detrás
 
 [colleague-skill](https://github.com/titanwings/colleague-skill) explotó recientemente en GitHub — destilar colegas que se van en skills de IA, superando las 5,000 estrellas en días. Demostró una cosa: destilar a una persona es completamente viable.
@@ -170,15 +156,6 @@ Nuwa no copia personas. Extrae sistemas operativos cognitivos.
 **Nuwa (女娲)**, la diosa en la mitología china que creó humanos de arcilla. Aquí la arcilla es información pública, y lo que se crea no es una persona — es un espejo.
 
 ---
-
-## Sobre el autor
-
-Huashu / Huasheng, AI Native Coder, desarrollador independiente. Todos los productos están construidos con código escrito por IA ([Kitten Fill Light](https://apps.apple.com/app/id6738028637) llegó al #1 en el chart de pago de App Store China). Ejecutando 40+ skills personalizados en Claude Code. Nuwa es el skill que crea skills.
-
-- Cuenta oficial WeChat: 花叔 (Huashu)
-- X: [@AlchainHust](https://x.com/AlchainHust)
-- Bilibili: [花叔](https://space.bilibili.com/14097567)
-- YouTube: [@Alchain](https://www.youtube.com/@Alchain)
 
 ## Licencia
 
@@ -194,6 +171,6 @@ MIT — úsalo, modifícalo, construye con él.
 
 <br>
 
-MIT License © [Huashu](https://github.com/alchaincyf)
+本skill由RHCLOUD更新整理
 
 </div>

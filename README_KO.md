@@ -4,10 +4,6 @@
 
 > *"증류할 다음 사람이 꼭 동료일 필요는 없다"*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
-
 <br>
 
 **Nuwa는 누구의 사고방식도 증류한다. 머스크, 나발, 멍거, 파인만을 당신을 위해 일하게 하라.**
@@ -147,16 +143,6 @@ nuwa-skill/
 
 ---
 
-## Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
-</div>
-
----
-
 ## 배경
 
 [colleague-skill](https://github.com/titanwings/colleague-skill)은 최근 GitHub에서 폭발적으로 퍼졌다 — 퇴사한 동료를 AI 스킬로 증류해 며칠 만에 5000 스타를 돌파했다. 이것은 한 가지를 증명했다: 사람을 증류하는 것은 완전히 가능하다.
@@ -170,15 +156,6 @@ Nuwa는 사람을 복제하지 않는다. 인지 운영체제를 추출한다.
 **여와(女娲)**는 중국 신화에서 흙으로 인간을 창조한 여신이다. 여기서 흙은 공개 정보이고, 창조되는 것은 사람이 아니라 거울이다.
 
 ---
-
-## 작가 소개
-
-화叔(Huashu)/화생(Huasheng), AI Native Coder, 독립 개발자. 모든 제품은 AI가 작성한 코드로 구축([새끼고양이 보조등](https://apps.apple.com/app/id6738028637)이 중국 App Store 유료 차트 1위 달성). Claude Code에서 40개 이상의 커스텀 스킬 실행 중. Nuwa는 스킬을 만드는 스킬이다.
-
-- WeChat 공식 계정: 花叔 (Huashu)
-- X: [@AlchainHust](https://x.com/AlchainHust)
-- Bilibili: [花叔](https://space.bilibili.com/14097567)
-- YouTube: [@Alchain](https://www.youtube.com/@Alchain)
 
 ## 라이선스
 
@@ -194,6 +171,6 @@ MIT — 자유롭게 사용하고, 수정하고, 만들어라.
 
 <br>
 
-MIT License © [Huashu](https://github.com/alchaincyf)
+本skill由RHCLOUD更新整理
 
 </div>
