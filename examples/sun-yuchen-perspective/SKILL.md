@@ -483,5 +483,4 @@ Step 4: 割味自检（输出前快速过一遍）
 
 ---
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 本skill由RHCLOUD更新整理
